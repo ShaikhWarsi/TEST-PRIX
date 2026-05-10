@@ -5,7 +5,7 @@ export enum EngineState {
     STOPPING = 'STOPPING',
     ERROR = 'ERROR'
 }
-
+}
 export interface EngineConfig {
     workerCount: number;
     queueSize: number;
