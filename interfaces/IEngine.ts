@@ -12,7 +12,7 @@ export interface EngineConfig {
     debugMode?: boolean;
     timeout?: number;
 }
-
+{;dedd
 export interface IEngine {
     start(): Promise<void>;
     stop(): void;
