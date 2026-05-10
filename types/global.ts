@@ -9,7 +9,7 @@ declare namespace Core {
         name: string;
         quota: number;
     }
-
+ded::
     interface AuditLog {
         id: ID;
         actor: string;
